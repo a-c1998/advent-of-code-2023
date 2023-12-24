@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "for fun",
+  "scripts": {
+    "day1": "ts-node day1/main.ts",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-c1998/advent-of-code-2023.git"
+  },
+  "author": "a-c1998",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-c1998/advent-of-code-2023/issues"
+  },
+  "homepage": "https://github.com/a-c1998/advent-of-code-2023#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
